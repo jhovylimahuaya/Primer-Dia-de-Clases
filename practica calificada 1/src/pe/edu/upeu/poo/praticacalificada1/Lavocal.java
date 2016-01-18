@@ -18,7 +18,7 @@ public class Lavocal {
 			resultado = "O";
 		} else if(nume == 5){
 			resultado = "U";
-		} else if(nume > 5){
+		} else {
 			resultado = "Ud, ha ingresado un valor incorrecto";
 		}
 
