@@ -1,5 +1,7 @@
 package pe.edu.upeu.poo.matricula;
 
-public class Apoderado {
+public class Apoderado extends Persona{
+	
+	private Estadocivil estadocivil;
 
 }

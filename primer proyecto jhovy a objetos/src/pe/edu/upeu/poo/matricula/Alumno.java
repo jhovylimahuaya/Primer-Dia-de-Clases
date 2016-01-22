@@ -1,5 +1,7 @@
 package pe.edu.upeu.poo.matricula;
 
-public class Alumno {
+public class Alumno extends Persona{
 
+	
+	
 }
